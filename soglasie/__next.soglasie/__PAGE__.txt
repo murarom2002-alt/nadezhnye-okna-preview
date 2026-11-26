@@ -1,0 +1,27 @@
+2:"$Sreact.fragment"
+3:"/nadezhnye-okna-preview/_next/static/chunks/08mika-44sn50.js"
+4:"/nadezhnye-okna-preview/_next/static/chunks/2g7bqyrchwpwi.js"
+5:"/nadezhnye-okna-preview/_next/static/chunks/0sx297qcnoxwx.js"
+6:I[39756,["$3","$4","$5"],"default"]
+7:I[37457,["$3","$4","$5"],"default"]
+c:I[97367,["$3","$4","$5"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$3","$4","$5"],"$10"]
+12:"MetadataBoundary"
+13:I[97367,["$3","$4","$5"],"$12"]
+14:I[27201,["$3","$4","$5"],"IconMark"]
+9:X
+9:C
+a:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"className":"flex-1","children":["$","article",null,{"className":"mx-auto flex max-w-3xl flex-col gap-6 px-4 py-16","children":[["$","header",null,{"className":"flex flex-col gap-2","children":[["$","h1",null,{"className":"text-h1 font-bold","children":"Согласие на обработку персональных данных"}],["$","p",null,{"className":"text-sm text-muted-foreground","children":"Версия: 2026-11-26-draft (черновик)"}],["$","p",null,{"className":"text-sm text-muted-foreground","children":["Оператор персональных данных: ","ООО «…», ИНН …, юридический адрес: … (PLACEHOLDER: реквизиты оператора ПД)"]}]]}],["$","div",null,{"className":"flex flex-col gap-6 [&_h2]:text-xl [&_h2]:font-semibold [&_p]:leading-relaxed","children":[["$","section",null,{"children":["$","p",null,{"children":["Отмечая галочку «Я даю согласие на обработку персональных данных» в форме заявки или в квизе на этом сайте, я свободно, своей волей и в своём интересе даю согласие оператору — ","ООО «…», ИНН …, юридический адрес: … (PLACEHOLDER: реквизиты оператора ПД)"," (далее — Оператор) — на обработку моих персональных данных на условиях ниже."]}]}],["$","section",null,{"children":[["$","h2",null,{"children":"1. Какие данные"}],["$","p",null,{"children":"Номер телефона; имя (если я его указал); удобный способ связи (звонок, Telegram или MAX); ответы на вопросы квиза (что нужно сделать, где объект, сколько окон, когда нужно); из какого блока сайта отправлена заявка и дата и время её отправки."}]]}],["$","section",null,{"children":[["$","h2",null,{"children":"2. Зачем"}],["$","p",null,{"children":"Чтобы связаться со мной по моей заявке: уточнить задачу, договориться о замере и рассчитать стоимость окон, балконов или других конструкций Оператора. Для рекламных рассылок данные не используются."}]]}],["$","section",null,{"children":[["$","h2",null,{"children":"3. Что с данными делают"}],["$","p",null,{"children":"Сбор, запись, систематизация, накопление, хранение, уточнение (обновление, изменение), извлечение, использование, передача (предоставление, доступ) работникам Оператора, которые обрабатывают заявки, блокирование, удаление и уничтожение — с использованием средств автоматизации и без них."}],["$","p",null,{"children":"Данные записываются и хранятся в базе данных на серверах в Российской Федерации, а затем передаются менеджеру Оператора по электронной почте и в мессенджер MAX. Трансграничная передача персональных данных не осуществляется."}]]}],["$","section",null,{"children":[["$","h2",null,{"children":"4. Срок действия и отзыв согласия"}],["$","p",null,{"children":"Согласие действует до достижения цели обработки, но не дольше PLACEHOLDER (срок хранения заявок назовёт Оператор), либо до отзыва согласия."}],["$","p",null,{"children":["Я могу отозвать согласие в любой момент, написав Оператору на ","zayavki@example.ru"," или позвонив по телефону"," ","+7 (900) 000-00-00",". После отзыва Оператор прекращает обработку и удаляет мои данные в срок не более 10 рабочих дней, если иное не предусмотрено законом."]}]]}],["$","section",null,{"children":["$","p",null,{"children":["Подробнее о том, как Оператор обращается с персональными данными, — в документе «","Политика конфиденциальности","»."]}]}]]}]]}]}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$a"}}]]
+1:[["children",{"s":"soglasie","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Согласие на обработку персональных данных — Надежные Окна"}],["$","meta","1",{"name":"description","content":"Производство и монтаж окон ПВХ, алюминиевых конструкций и балконов в Москве и Московской области."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/nadezhnye-okna-preview/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L14","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$a"}},"a":"$@16","u":"$@17","b":"28u7ezWoTU6n3TEnB3WbJ"}
+e:null
+17:true
+a:300
+a:C
+16:0
+8:"$undefined"
+15:"$undefined"
+f:"$undefined"

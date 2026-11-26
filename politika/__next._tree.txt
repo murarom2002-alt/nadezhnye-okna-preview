@@ -1,0 +1,8 @@
+:HL["/nadezhnye-okna-preview/_next/static/chunks/2ggrjp6e1-abx.css","style"]
+:HL["/nadezhnye-okna-preview/_next/static/media/494cb1097dcf3c0c-s.p.01hh-51_pfq12.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/nadezhnye-okna-preview/_next/static/media/9eb6ff7a8f901dfb-s.p.10sic7gd7jptv.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/nadezhnye-okna-preview/_next/static/media/bee234b53fd89b52-s.p.05uz1l1tir_-_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/nadezhnye-okna-preview/_next/static/media/e4f541f967556e93-s.p.3irbhix3cjn4m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"politika","h":64,"c":"$Q2"}]]
+0:{"b":"28u7ezWoTU6n3TEnB3WbJ","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

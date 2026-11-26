@@ -1,0 +1,29 @@
+2:"$Sreact.fragment"
+3:"/nadezhnye-okna-preview/_next/static/chunks/08mika-44sn50.js"
+4:"/nadezhnye-okna-preview/_next/static/chunks/2g7bqyrchwpwi.js"
+5:"/nadezhnye-okna-preview/_next/static/chunks/0sx297qcnoxwx.js"
+6:I[39756,["$3","$4","$5"],"default"]
+7:I[37457,["$3","$4","$5"],"default"]
+c:"$Sreact.suspense"
+d:"/nadezhnye-okna-preview/_next/static/chunks/35--z20huks6g.js"
+e:I[24458,["$3","$4","$5","$d"],"ThanksContent"]
+f:I[97367,["$3","$4","$5"],"OutletBoundary"]
+12:"ViewportBoundary"
+13:I[97367,["$3","$4","$5"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$3","$4","$5"],"$14"]
+16:I[27201,["$3","$4","$5"],"IconMark"]
+9:X
+9:C
+a:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"className":"flex flex-1 items-center bg-secondary","children":["$","div",null,{"className":"mx-auto w-full max-w-content px-4 py-16 md:py-24","children":["$","$c",null,{"children":["$","$Le",null,{}]}]}]}],[["$","script","script-0",{"src":"/nadezhnye-okna-preview/_next/static/chunks/35--z20huks6g.js","async":true}]],["$","$Lf",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$a"}}]]
+1:[["children",{"s":"spasibo","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Спасибо — Надежные Окна"}],["$","meta","1",{"name":"description","content":"Производство и монтаж окон ПВХ, алюминиевых конструкций и балконов в Москве и Московской области."}],["$","meta","2",{"name":"robots","content":"noindex"}],["$","link","3",{"rel":"icon","href":"/nadezhnye-okna-preview/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L16","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$a"}},"a":"$@18","u":"$@19","b":"28u7ezWoTU6n3TEnB3WbJ"}
+10:null
+19:true
+a:300
+a:C
+18:0
+8:"$undefined"
+17:"$undefined"
+11:"$undefined"

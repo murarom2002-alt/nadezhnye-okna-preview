@@ -1,0 +1,28 @@
+2:"$Sreact.fragment"
+3:"/nadezhnye-okna-preview/_next/static/chunks/08mika-44sn50.js"
+4:"/nadezhnye-okna-preview/_next/static/chunks/2g7bqyrchwpwi.js"
+5:"/nadezhnye-okna-preview/_next/static/chunks/0sx297qcnoxwx.js"
+6:I[39756,["$3","$4","$5"],"default"]
+7:I[37457,["$3","$4","$5"],"default"]
+c:I[22016,["$3","$4","$5"],""]
+d:I[97367,["$3","$4","$5"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$3","$4","$5"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$3","$4","$5"],"$13"]
+15:I[27201,["$3","$4","$5"],"IconMark"]
+9:X
+9:C
+a:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"className":"flex flex-1 items-center","children":["$","div",null,{"className":"mx-auto flex w-full max-w-content flex-col gap-4 px-4 py-24","children":[["$","h1",null,{"className":"text-h1 font-bold md:text-h1-lg","children":"Такой страницы нет"}],["$","p",null,{"className":"text-lg text-muted-foreground","children":"Возможно, ссылка устарела. Всё о наших окнах — на главной."}],["$","$Lc",null,{"href":"/","children":"На главную","data-slot":"button","data-variant":"default","data-size":"default","className":"group/button inline-flex shrink-0 items-center justify-center rounded-full border border-transparent bg-clip-padding text-base font-bold whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/85 h-12 gap-2 px-6 has-data-[icon=inline-end]:pr-5 has-data-[icon=inline-start]:pl-5 self-start","ref":null}]]}]}],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$a"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Надежные Окна — окна и балконы в Москве и МО"}],["$","meta","1",{"name":"description","content":"Производство и монтаж окон ПВХ, алюминиевых конструкций и балконов в Москве и Московской области."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/nadezhnye-okna-preview/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L15","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@16","v":null,"s":"$a"}},"a":"$@17","u":"$@18","b":"28u7ezWoTU6n3TEnB3WbJ"}
+f:null
+18:true
+a:300
+a:C
+17:0
+8:"$undefined"
+16:"$undefined"
+10:"$undefined"
